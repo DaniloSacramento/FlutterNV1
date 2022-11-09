@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
         children: [
           OnePage(),
           Container(
-            color: Colors.red,
+            color: Colors.black,
           ),
           Container(
             color: Colors.yellow,
